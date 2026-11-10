@@ -1,0 +1,13 @@
+{
+  "name": "zhixuetansuo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "智学探索 · AI 驱动的全学科学习工具",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
